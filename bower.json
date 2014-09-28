@@ -4,12 +4,13 @@
   "authors": [
     "Ricca Nicola <ricca.nicola@gmail.com>"
   ],
-  "main": "app.js",
+  "description": "SC2 Virtual Coach",
   "keywords": [
-    "startcraft2",
-    "makozfriends",
+    "sc2",
     "virtual",
-    "coach"
+    "coach",
+    "makoz",
+    "makozfriends"
   ],
   "license": "MIT",
   "ignore": [
@@ -20,8 +21,6 @@
     "tests"
   ],
   "dependencies": {
-    "bootstrap": "~3.2.0",
-    "angular": "~1.2.25",
-    "angular-bootstrap": "~0.11.0"
+    "angular": "~1.2.25"
   }
 }
