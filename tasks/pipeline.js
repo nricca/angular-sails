@@ -30,7 +30,9 @@ var jsFilesToInject = [
     'js/dependencies/**/*.js',
 
     // Bower components
-    'bower_components/*.js',
+    'bower_components/jquery/dist/jquery.js',
+    'bower_components/angular.js',
+    'bower_components/highcharts.js',
 
     // Angular
     'angular/**/*.js',
